@@ -10,9 +10,9 @@ import {
   produtosEntradas,
 } from "../service/index.js";
 import Head from 'next/head'
-import Cards from '../componentes/Cards/index.jsx';
-import Categorias from '../componentes/Categorias/index.jsx';
-import CampoDeBusca from '../componentes/CampoDeBusca/index.jsx';
+import Cards from '../components/Cards/index.jsx';
+import Categorias from '../components/Categorias/index.jsx';
+import CampoDeBusca from '../components/CampoDeBusca/index.jsx';
 
 
 export default function Home() {
