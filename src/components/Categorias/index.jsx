@@ -2,12 +2,12 @@ import styles from "./Categorias.module.css";
 
 import Image from 'next/image'
 
-import icone1 from "/public/assets/entrada.png";
-import icone2 from "/public/assets/massa.png";
-import icone3 from "/public/assets/carne.png";
-import icone4 from "/public/assets/bebidas.png";
-import icone5 from "/public/assets/salada.png";
-import icone6 from "/public/assets/sobremesa.png";
+import icone1 from "./assets/entrada.png";
+import icone2 from "./assets/massa.png";
+import icone3 from "./assets/carne.png";
+import icone4 from "./assets/bebidas.png";
+import icone5 from "./assets/salada.png";
+import icone6 from "./assets/sobremesa.png";
 
 const Categorias = ({ handleFiltro, botaoClicado }) => {
   return (
