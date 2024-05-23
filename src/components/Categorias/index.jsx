@@ -2,7 +2,7 @@ import styles from "./Categorias.module.css";
 
 import Image from 'next/image'
 
-import icone1 from "./assets/entrada.png";
+import icone1 from "../../../public/entrada.png";
 import icone2 from "./assets/massa.png";
 import icone3 from "./assets/carne.png";
 import icone4 from "./assets/bebidas.png";
