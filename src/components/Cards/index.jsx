@@ -1,6 +1,6 @@
 import Image from 'next/image'
-
 import styles from "./Cards.module.css";
+
 const Cards = ({ produto }) => {
   return (
     <div className={styles.container}>
